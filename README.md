@@ -1,2 +1,2 @@
 # rsub
-run rsub
+run rsub for git using
